@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: a DateTimePeriod instance.
+  - text: an Instant object.
+  - text: a kotlin.time Duration instance.
+  - text: a String representing the time difference.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19463#comment
+status: Solved
+record: -1
+local_check: false

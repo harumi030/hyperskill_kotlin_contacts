@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: "Class Act: Crafting the Age Gatekeeper"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47999#comment
+status: Solved
+record: -1

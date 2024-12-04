@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/ContactsTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20389#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 28 Nov 2024 12:44:02 UTC"
+record: 2

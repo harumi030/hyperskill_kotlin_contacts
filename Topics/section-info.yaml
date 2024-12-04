@@ -1,0 +1,24 @@
+content:
+  - Functional decomposition
+  - Default arguments
+  - Named arguments
+  - Declaring classes
+  - Constructors
+  - Type system
+  - Member functions
+  - Scopes
+  - Getting substrings
+  - Processing strings
+  - Arrays
+  - String arrays
+  - For loop and arrays
+  - Inheritance
+  - toString()
+  - Data class
+  - Jumps and returns
+  - Regexps
+  - Regexps in use
+  - Enum
+  - Kotlinx datetime library
+  - Local date and time
+  - Writing files

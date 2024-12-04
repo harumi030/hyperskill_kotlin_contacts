@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: CENTURY
+  - text: MILLISECOND
+  - text: dayOfWeek
+  - text: quarter
+  - text: dayOfYear
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19500#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "checkEqual(s1 = \"abc\", s2 = \"aBc\", true)"
+  - text: "checkEqual(\"abc\", \"ABC\", ignoreCase = true)"
+  - text: "checkEqual(s2 = \"abc\", s1 = \"aBc\")"
+  - text: "checkEqual(ignoreCase = true, \"abc\", \"ABC\")"
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4639#comment
+status: Solved
+record: -1
+local_check: false
